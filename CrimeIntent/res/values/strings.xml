@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">CrimeIntent</string>
+	<string name="crime_title_hint">Enter a title for the crime.</string>
+	<string name="fragment_title">TITLE</string>
+	<string name="fragment_date">DATALLS</string>
+	<string name="fragment_isSolved">SOLVED ？</string>
+	<string name="crimes_title">Crimes</string>
+	<string name="date_dialog_title">date of crime:</string>
+	<string name="subtitle">subtitle</string>
+</resources>
